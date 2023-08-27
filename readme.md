@@ -1,7 +1,7 @@
-### Hello. I'm Sherry.qiu.
+### Hello. I'm Sherry. qiu.
 
-- 👀 interested in spiking neural network
 - 🌱 currently learning at UESTC
-
-  
-[![Ridger's GitHub stats](https://github-readme-stats.vercel.app/api?username=bollossom&show_icons=true&theme=tokyonight)](https://github.com/bollossom)
+- 👀 Conducting research on **AI** and **Computer Vision** 
+- 💡 Open to collaborating on projects and innovative ideas.
+-  💻 Currently working on Spiking neural network.
+[![Sherry's GitHub stats](https://github-readme-stats.vercel.app/api?username=bollossom&show_icons=true&theme=tokyonight)](https://github.com/bollossom)

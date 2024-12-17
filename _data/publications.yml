@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "Efficient 3D Recognition with Event-driven Spike Sparse Convolution"
+    authors: Xuerui Qiu, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
+    conference_short: AAAI 2025
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2412.07360
+    code: https://github.com/bollossom/E-3DSNN/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:EWskUQCRM_8J:scholar.google.com/&output=citation&scisdr=ClEgWbYlEKLd3NYicQ8:AFWwaeYAAAAAZ2EkaQ_8Ehs785oQcjNYVdQUDVQ&scisig=AFWwaeYAAAAAZ2EkaZ-wju-oz3EKddCLyoVgvjE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

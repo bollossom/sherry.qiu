@@ -9,7 +9,7 @@ Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automat
 ## Research Interests
 - **AI4S:** Neuromorphic computing, Biological explainability
 - **Computer Vision:** Image recognition, Image generation.
-- **Model compression:** Large Model Quantization and Sparsity。
+- **Model compression:** Large Language Model Quantization and Sparsity。
 
 ## News
 

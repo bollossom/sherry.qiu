@@ -1,7 +1,7 @@
 main:
 
   - title: "Efficient 3D Recognition with Event-driven Spike Sparse Convolution"
-    authors: Xuerui Qiu, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
+    authors: **Xuerui Qiu**, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2412.07360
@@ -9,14 +9,22 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:EWskUQCRM_8J:scholar.google.com/&output=citation&scisdr=ClEgWbYlEKLd3NYicQ8:AFWwaeYAAAAAZ2EkaQ_8Ehs785oQcjNYVdQUDVQ&scisig=AFWwaeYAAAAAZ2EkaZ-wju-oz3EKddCLyoVgvjE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/e3dsnn.png
     # notes: Early Accept
+- title: "High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost"
+    authors: JiaKui Hu, Man Yao, **Xuerui Qiu**, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li
+    conference_short: ICML
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://openreview.net/forum?id=s4h6nyjM9H
+    code: https://github.com/BICLab/T-RevSNN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:C2pVvrMuTv4J:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3NYh6cU:AFWwaeYAAAAAZ2En8cWKe-w63RoNq_yHNfe3GhA&scisig=AFWwaeYAAAAAZ2En8dPbJ07C8nAvf0LiPuB2iAs&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/t_revsnn.png
+    notes: Spotlight
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    - title: "Gated attention coding for training high-performance and efficient spiking neural networks"
+    authors: **Xuerui Qiu**, Rui-Jie Zhu, Yuhong Chou, Zhaorui Wang, Liang-jian Deng, Guoqi Li
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/27816
+    code: https://github.com/bollossom/GAC
+    bibtex:https://scholar.googleusercontent.com/scholar.bib?q=info:JFd_5U1cUDUJ:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3NYuaLk:AFWwaeYAAAAAZ2EocLmdtj5ZWAWwAMFqQiYzcus&scisig=AFWwaeYAAAAAZ2EocOvawi29bQdP8riSmusH9WQ&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/gac.png
+ 

@@ -1,7 +1,7 @@
 main:
 
   - title: Efficient 3D Recognition with Event-driven Spike Sparse Convolution
-    authors: **Xuerui Qiu**, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
+    authors: <strong>Xuerui Qiu<strong>, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2412.07360 
@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost
-    authors: JiaKui Hu, Man Yao, **Xuerui Qiu**, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li
+    authors: JiaKui Hu, Man Yao, <strong>Xuerui Qiu<strong>, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://openreview.net/forum?id=s4h6nyjM9H 

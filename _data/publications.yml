@@ -2,7 +2,7 @@ main:
 
   - title: "Efficient 3D Recognition with Event-driven Spike Sparse Convolution"
     authors: Xuerui Qiu, Man Yao, Jieyuan Zhang, Yuhong Chou, Ning Qiao, Shibo Zhou, Bo Xu, Guoqi Li
-    conference_short: AAAI 2025
+    conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2412.07360
     code: https://github.com/bollossom/E-3DSNN/

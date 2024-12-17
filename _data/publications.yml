@@ -10,7 +10,7 @@ main:
     image: ./assets/img/e3dsnn.png
     # notes: Early Accept
     
-    - title: "High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost"
+  - title: "High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost"
     authors: JiaKui Hu, Man Yao, **Xuerui Qiu**, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/trevsnn.png
     notes: Spotlight
 
-    - title: "Gated attention coding for training high-performance and efficient spiking neural networks"
+  - title: "Gated attention coding for training high-performance and efficient spiking neural networks"
     authors: **Xuerui Qiu**, Rui-Jie Zhu, Yuhong Chou, Zhaorui Wang, Liang-jian Deng, Guoqi Li
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.

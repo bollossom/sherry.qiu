@@ -21,8 +21,3 @@ Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automat
 {% include_relative _includes/services.md %}
 
 
-## Honors & Awards
-======
-* China National Scholarship, 2022
-* Excellent graduates of Sichuan Province, 2024
-* Excellent graduates of University of Electronic Science and Technology of China, 2024

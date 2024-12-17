@@ -17,7 +17,7 @@ main:
     pdf: https://openreview.net/forum?id=s4h6nyjM9H
     code: https://github.com/BICLab/T-RevSNN
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:C2pVvrMuTv4J:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3NYh6cU:AFWwaeYAAAAAZ2En8cWKe-w63RoNq_yHNfe3GhA&scisig=AFWwaeYAAAAAZ2En8dPbJ07C8nAvf0LiPuB2iAs&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
-    image: ./assets/img/t_revsnn.png
+    image: ./assets/img/trevsnn.png
     notes: Spotlight
 
     - title: "Gated attention coding for training high-performance and efficient spiking neural networks"

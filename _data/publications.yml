@@ -21,8 +21,8 @@ main:
     notes: Spotlight
     image: ./assets/img/trevsnn.png
 
-  - title: "Gated attention coding for training high-performance and efficient spiking neural networks"
-    authors: **Xuerui Qiu**, Rui-Jie Zhu, Yuhong Chou, Zhaorui Wang, Liang-jian Deng, Guoqi Li
+  - title: Gated attention coding for training high-performance and efficient spiking neural networks
+    authors: Xuerui Qiu, Rui-Jie Zhu, Yuhong Chou, Zhaorui Wang, Liang-jian Deng, Guoqi Li
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/27816 

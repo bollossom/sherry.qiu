@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! This is Xuerui Qiu. I'm currently a  Ph.D student at the Institue of Automation, Chinese Academy of Sciences with [Prof. Guoqi Li](https://casialiguoqi.github.io/) as my supervisor. I obtained my Bachelor’s Degree from the University of Electronic Science and Technology of China in 2024, with [Prof. Liang-Jian Deng](https://liangjiandeng.github.io/) and [Prof. Malu Zhang](https://www.scse.uestc.edu.cn/info/1081/12350.htm) as my supervisor. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI4S:** Neuromorphic computing, Biological explainability
+- **Computer Vision:** Image recognition, Image generation.
+- **Model compression:** Large Model Quantization and Sparsity。
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2024]** Our paper about Efficient 3D recognition is accepted by AAAI 2025.
+
 
 {% include_relative _includes/publications.md %}
 

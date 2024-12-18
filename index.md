@@ -19,7 +19,10 @@ Hi! This is Xuerui Qiu. I'm currently a first-year Ph.D student at the Institue 
 
 ## News
 
-- **[Dec. 2024]** Our paper about Efficient 3D recognition is accepted by AAAI 2025.
+- **[Dec. 2024]** Two papers about neuromorphic computing and image recognition are accepted by AAAI 2025.
+- **[May. 2024]** One paper about neuromorphic computing is accepted by ACM-MM 2024.
+- **[May. 2024]** One paper about neuromorphic computing is accepted by ICML 2024 (Spotlight).
+- **[Dec. 2023]** One paper about neuromorphic computing  is accepted by AAAI 2024.
 
 
 {% include_relative _includes/publications.md %}

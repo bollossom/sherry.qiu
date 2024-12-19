@@ -29,7 +29,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:pXbJbc7GZMgJ:scholar.google.com/&output=citation&scisdr=ClEgWbYlEKLd3NY14k4:AFWwaeYAAAAAZ2Ez-k7XRd_uE2QIjcTkQeQSIeA&scisig=AFWwaeYAAAAAZ2Ez-pwrpabepM6j0LL1vwAMegY&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     image: ./assets/img/rsc.png
 
-  - title: Gated attention coding for training high-performance and efficient spiking neural networks
+  - title: Gated Attention Coding for Training High-performance and Efficient Spiking Neural Networks
     authors: Xuerui Qiu, Rui-Jie Zhu, Yuhong Chou, Zhaorui Wang, Liang-jian Deng, Guoqi Li
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.

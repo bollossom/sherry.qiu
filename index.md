@@ -37,7 +37,5 @@ Hi! This is Xuerui Qiu. I'm currently a first-year Ph.D student at the Institue 
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RZetoCefF7BYvzbENuol9e5QsviCn1nFOrnw-u9fb68&width=50&height=50"></script>
-
 
 

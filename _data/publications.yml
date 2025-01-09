@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.16061
     code: https://github.com/BICLab/Spike-Driven-Transformer-V3
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uUQgdTo6MHwJ:scholar.google.com/&output=citation&scisdr=ClGCG3nFEOmGs8g2zHo:AFWwaeYAAAAAZ38w1HpeGxRWPe9_C_ZCetflZi0&scisig=AFWwaeYAAAAAZ38w1F_E8PYECGmnGvmo5fOhUbM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
-    image: ./assets/img/v3.png
+    image: ./assets/img/v3.jpg
     # notes: Early Accept
     
   - title: Efficient 3D Recognition with Event-driven Spike Sparse Convolution

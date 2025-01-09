@@ -14,12 +14,12 @@ Hi! This is Xuerui Qiu. I'm currently a first-year Ph.D student at the Institue 
 
 ## Research Interests
 - **AI4S:** Neuromorphic computing, Biological explainability.
-- **Computer Vision:** Image recognition, Image generation.
+- **Computer Vision:** Image recognition, Image generation, Self-supervised Learning, Vision-Language Model.
 - **Model compression:** Large Language Model Quantization and Sparsity.
 
 ## News
 
-- **[Dec. 2024]** One paper about vision self-supervised learning is accepted by IEEE T-PAMI.
+- **[Jan. 2025]** One paper about vision self-supervised learning is accepted by IEEE T-PAMI.
 - **[Dec. 2024]** Two papers about neuromorphic computing and image recognition are accepted by AAAI 2025.
 - **[May. 2024]** One paper about neuromorphic computing is accepted by ACM-MM 2024.
 - **[May. 2024]** One paper about neuromorphic computing is accepted by ICML 2024 (Spotlight).

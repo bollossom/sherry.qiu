@@ -21,7 +21,7 @@ main:
     # notes: Early Accept
 
   - title: High-Performance Temporal Reversible Spiking Neural Networks with O(L) Training Memory and O(1) Inference Cost
-    authors: JiaKui Hu, Man Yao, Xuerui Qiu, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li
+    authors: JiaKui Hu*, Man Yao*, Xuerui Qiu, Yuhong Chou, Yuxuan Cai, Ning Qiao, Yonghong Tian, Bo Xu, Guoqi Li (*equal contribution)
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://openreview.net/forum?id=s4h6nyjM9H 

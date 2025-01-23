@@ -1,6 +1,6 @@
 main:
 
-   - title: Quantized Spike-driven Transformer
+  - title: Quantized Spike-driven Transformer
     authors: Xuerui Qiu, Jieyuan Zhang, Wenjie Wei, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Malu Zhang, Haizhou Li  
     conference_short: ICLR 
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.

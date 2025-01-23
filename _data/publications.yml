@@ -1,5 +1,14 @@
 main:
 
+   - title: Quantized Spike-driven Transformer
+    authors: Xuerui Qiu, Jieyuan Zhang, Wenjie Wei, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Malu Zhang, Haizhou Li  
+    conference_short: ICLR 
+    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.16061
+    code: https://github.com/bollossom/QSD-Transformer
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uUQgdTo6MHwJ:scholar.google.com/&output=citation&scisdr=ClGCG3nFEOmGs8g2zHo:AFWwaeYAAAAAZ38w1HpeGxRWPe9_C_ZCetflZi0&scisig=AFWwaeYAAAAAZ38w1F_E8PYECGmnGvmo5fOhUbM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/qsd.jpg
+    
   - title: Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training
     authors: Man Yao*, Xuerui Qiu*, Tianxiang Hu, Jiakui Hu, Yuhong Chou, Keyu Tian, Jianxing Liao, Luziwei Leng, Bo Xu, Guoqi Li (*equal contribution)
     conference_short: TPAMI

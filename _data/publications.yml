@@ -6,7 +6,7 @@ main:
     conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/forum?id=5J9B7Sb8rO
     code: https://github.com/bollossom/QSD-Transformer
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uUQgdTo6MHwJ:scholar.google.com/&output=citation&scisdr=ClGCG3nFEOmGs8g2zHo:AFWwaeYAAAAAZ38w1HpeGxRWPe9_C_ZCetflZi0&scisig=AFWwaeYAAAAAZ38w1F_E8PYECGmnGvmo5fOhUbM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZxSRurNS16wJ:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3CAc70A:AFWwaeYAAAAAZ5ca90CzWH4aSf3monUgLbX9L7s&scisig=AFWwaeYAAAAAZ5ca96F1elWThZf2alM8Y5eHHaE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/qsd.jpg
     
   - title: Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training
@@ -15,7 +15,7 @@ main:
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2411.16061
     code: https://github.com/BICLab/Spike-Driven-Transformer-V3
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:uUQgdTo6MHwJ:scholar.google.com/&output=citation&scisdr=ClGCG3nFEOmGs8g2zHo:AFWwaeYAAAAAZ38w1HpeGxRWPe9_C_ZCetflZi0&scisig=AFWwaeYAAAAAZ38w1F_E8PYECGmnGvmo5fOhUbM&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    bibtex: https://www.computer.org/csdl/journal/tp/5555/01/10848017/23FewtOFG0w
     image: ./assets/img/v3.jpg
     # notes: Early Accept
     

@@ -18,7 +18,7 @@ Hi! This is Xuerui Qiu. I'm currently a first-year Ph.D student at the Institue 
 - **Model compression:** Large Language Model Quantization and Sparsity.
 
 ## News
-
+- **[May. 2025]** One paper about vision-language model is accepted by ICML 2025.
 - **[Jan. 2025]** One paper about model quantization is accepted by ICLR 2025.
 - **[Jan. 2025]** One paper about self-supervised learning is accepted by IEEE T-PAMI.
 - **[Dec. 2024]** Two papers about 3D computer vision and image recognition are accepted by AAAI 2025.

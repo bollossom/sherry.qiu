@@ -4,7 +4,7 @@ main:
     authors: Songbai Tan, Xuerui Qiu, Yao Shu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, Ming Li, Fei Richard Yu   
     conference_short: ICML 
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
-    pdf: https://openreview.net/forum?id=5J9B7Sb8rO
+    pdf: https://openreview.net/forum?id=HjVhSL76GM
     code: https://github.com/bollossom/QSD-Transformer
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZxSRurNS16wJ:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3CAc70A:AFWwaeYAAAAAZ5ca90CzWH4aSf3monUgLbX9L7s&scisig=AFWwaeYAAAAAZ5ca96F1elWThZf2alM8Y5eHHaE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/WMarkGPT.jpg

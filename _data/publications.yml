@@ -1,6 +1,6 @@
 main:
 
-  - title: WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models
+  - title: "WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models"
     authors: Songbai Tan, Xuerui Qiu, Yao Shu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, Ming Li, Fei Richard Yu   
     conference_short: ICML 
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.

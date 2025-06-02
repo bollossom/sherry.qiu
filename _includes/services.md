@@ -19,6 +19,6 @@
   <li><a href="https://cis.ieee.org/publications/t-emerging-topics-in-ci"><autocolor>IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)</autocolor></a></li>
    <li><a href="https://cis.ieee.org/publications/t-cognitive-and-developmental-systems"><autocolor>IEEE Transactions on Cognitive and Developmental Systems (TCDS)</autocolor></a></li>
    <li><a href="https://dl.acm.org/journal/TKDD"><autocolor>ACM Transactions on Knowledge Discovery from Data (TKDD)</autocolor></a></li>
-  
+  <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor> Neural Networks </autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor> Neurocomputing </autocolor></a></li>
 </ul>

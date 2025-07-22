@@ -8,7 +8,8 @@
    <li><a href="https://neurips.cc/"><autocolor> Annual Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025 </autocolor></a></li>
    <li><a href="http://cvpr2025.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 </autocolor></a></li>
    <li><a href="https://iccv.thecvf.com/Conferences/2025"><autocolor>International Conference on Computer Vision (ICCV) 2025 </autocolor></a></li>
-  <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
+   <li><a href="https://eccv2024.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2024</autocolor></a></li>
+  <li><a href="https://aaai.org/conference/aaai/aaai-26/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2026</autocolor></a></li>
    <li><a href="https://2024.acmmm.org/"><autocolor> ACM International Conference on Multimedia (ACM MM) 2024 </autocolor></a></li>
 </ul>
 

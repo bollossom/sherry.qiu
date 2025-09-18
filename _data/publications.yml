@@ -1,5 +1,14 @@
 main:
 
+  - title: "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking"
+    authors: Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Jun-hao Zhuang, Chun Yuan, Ming Li, Shengfeng He, Fei Yu  
+    conference_short: NeurIPS 
+    conference: The  Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2505.12667
+    code: https://github.com/bollossom/QSD-Transformer
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZxSRurNS16wJ:scholar.google.com/&output=citation&scisdr=ClHHhBmBEKLd3CAc70A:AFWwaeYAAAAAZ5ca90CzWH4aSf3monUgLbX9L7s&scisig=AFWwaeYAAAAAZ5ca96F1elWThZf2alM8Y5eHHaE&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/safesora.jpg
+
   - title: "WMarkGPT: Watermarked Image Understanding via Multimodal Large Language Models"
     authors: Songbai Tan, Xuerui Qiu, Yao Shu, Gang Xu, Linrui Xu, Xiangyu Xu, Huiping Zhuang, Ming Li, Fei Richard Yu   
     conference_short: ICML 

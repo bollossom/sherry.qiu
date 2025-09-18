@@ -18,6 +18,7 @@ Hi! This is Xuerui Qiu. I'm currently a first-year Ph.D student at the Institue 
 - **Model compression:** Large Language Model Quantization and Sparsity.
 
 ## News
+- **[Sep. 2025]** One paper about text-to-video generation model is accepted by NeurIPS 2025.
 - **[May. 2025]** One paper about vision-language model is accepted by ICML 2025.
 - **[Jan. 2025]** One paper about model quantization is accepted by ICLR 2025.
 - **[Jan. 2025]** One paper about self-supervised learning is accepted by IEEE T-PAMI.

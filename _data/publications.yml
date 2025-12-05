@@ -7,7 +7,7 @@ main:
     pdf: https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570
     code: https://github.com/bollossom/QSD-Transformer
     bibtex: https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570
-    image: ./assets/img/safesora.jpg
+    image: ./assets/img/nsr.png
 
   - title: "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking"
     authors: Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Jun-hao Zhuang, Chun Yuan, Ming Li, Shengfeng He, Fei Yu  

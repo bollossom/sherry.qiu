@@ -1,6 +1,15 @@
 main:
 
   - title: "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking"
+    authors: Han Xu*, Xuerui Qiu*, Yunhui Xu*, Mohammed E Elbtity*, Peng Zhou*, Yang Tian, Rui-Jie Zhu et al, and Bo Xu, Guoqi Li (*equal contribution)
+    conference_short: NSR
+    conference: National Science Review <strong>(NSR)</strong>, 2025.
+    pdf: https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570
+    code: https://github.com/bollossom/QSD-Transformer
+    bibtex: https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570
+    image: ./assets/img/safesora.jpg
+
+  - title: "Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking"
     authors: Zihan Su, Xuerui Qiu, Hongbin Xu, Tangyu Jiang, Jun-hao Zhuang, Chun Yuan, Ming Li, Shengfeng He, Fei Yu  
     conference_short: NeurIPS 
     conference: The  Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.

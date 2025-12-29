@@ -23,5 +23,6 @@
    <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor> Engineering Applications of Artificial Intelligence (EAAI)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor> Neural Networks (NN)</autocolor></a></li>
    <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor> Knowledge-Based Systems (KBS)</autocolor></a></li>
+   <li><a href="https://www.sciencedirect.com/journal/information-sciences"><autocolor> Information Sciences (IS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor> Neurocomputing </autocolor></a></li>
 </ul>

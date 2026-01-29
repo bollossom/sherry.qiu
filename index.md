@@ -13,11 +13,12 @@ Hi! This is Xuerui Qiu. I'm currently a second-year Ph.D student at the Institue
 - Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
 ## Research Interests
-- **AI4S:** Neuromorphic computing, Biological explainability.
-- **Computer Vision:** Image recognition, Image generation, Self-supervised Learning, Vision-Language Model.
+- **Computer Vision:** Unify Multimodal Models, Self-supervised Learning, Vision-Language Model.
 - **Model compression:** Large Language Model Quantization and Sparsity.
+- - **AI4S:** Neuromorphic computing, Biological explainability.
 
 ## News
+- **[Jan. 2026]** Two paper about unify multimodal models is accepted by ICLR 2026.
 - **[Dec. 2025]** One paper about large language model quantization and sparsity is accepted by National Science Review (NSR).
 - **[Sep. 2025]** One paper about text-to-video generation model is accepted by NeurIPS 2025.
 - **[May. 2025]** One paper about vision-language model is accepted by ICML 2025.

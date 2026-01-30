@@ -15,7 +15,7 @@ Hi! This is Xuerui Qiu. I'm currently a second-year Ph.D student at the Institue
 ## Research Interests
 - **Computer Vision:** Unify Multimodal Models, Self-supervised Learning, Vision-Language Model.
 - **Model compression:** Large Language Model Quantization and Sparsity.
-- - **AI4S:** Neuromorphic computing, Biological explainability.
+- **AI4S:** Neuromorphic computing, Biological explainability.
 
 ## News
 - **[Jan. 2026]** Two paper about unify multimodal models is accepted by ICLR 2026.

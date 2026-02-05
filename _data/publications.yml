@@ -2,7 +2,7 @@ main:
   - title: "UniFace: Fine-grained Face Understanding and Generation with Unified Multimodal Models"
     authors: Junzhe Li, Xuerui Qiu, Linrui Xu, Liya Guo, Delin Qu, Tingting Long, Chun Fan, Ming Li
     conference_short: ICLR
-    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2503.08120?
     code: https://arxiv.org/pdf/2503.08120?
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xAgcrwyAFd4J:scholar.google.com/&output=citation&scisdr=Cn3RubAjEIvR675tBLE:AHkA5jQAAAAAaXtrHLFmoYc8w7tpLdLsNFqFS1s&scisig=AHkA5jQAAAAAaXtrHPWeJEd-XFTMgYHAPWFAzks&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
@@ -11,7 +11,7 @@ main:
   - title: "Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images"
     authors: JiaKui Hu, Shanshan Zhao, Qing-Guo Chen, Xuerui Qiu, Jialun Liu, Zhao Xu, Weihua Luo, Kaifu Zhang, Yanye Lu
     conference_short: ICLR
-    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    conference: The International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2511.07222
     code: https://arxiv.org/abs/2511.07222
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:xAgcrwyAFd4J:scholar.google.com/&output=citation&scisdr=Cn3RubAjEIvR675tBLE:AHkA5jQAAAAAaXtrHLFmoYc8w7tpLdLsNFqFS1s&scisig=AHkA5jQAAAAAaXtrHPWeJEd-XFTMgYHAPWFAzks&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1

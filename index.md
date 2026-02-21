@@ -13,7 +13,7 @@ Hi! This is Xuerui Qiu. I'm currently a second-year Ph.D student at the Institue
 - Sept. 2020 - July. 2024, Undergradute, University of Electronic Science and Technology of China
 
 ## Research Interests
-- **Computer Vision:** Unify Multimodal Models, Self-supervised Learning, Vision-Language Model.
+- **Computer Vision:** Unified Multimodal Models, Self-supervised Learning, Vision-Language Model.
 - **Model compression:** Large Language Model Quantization and Sparsity.
 - **AI4S:** Neuromorphic computing, Biological explainability.
 
